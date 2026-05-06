@@ -1,4 +1,4 @@
-# LABORAT-RIO-DE-PROGRAMA-O
+# LABORATÓRIO DE PROGRAMAÇÃO
 
 
 Automação da conciliação e do suporte no sistema DigitalConsig com IA
